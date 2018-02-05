@@ -1,4 +1,4 @@
-# CREFCInvestorReportingPackage
+# CREFC Investor Reporting Package
 
 The seven data files are designed to provide standard formats that facilitate a smooth transfer of information from the Special Servicer to the Master Servicer, Master Servicer to the Certificate Administrator, and from the Certificate Administrator to the Investor (or user of this data). 
 
