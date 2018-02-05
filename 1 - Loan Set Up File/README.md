@@ -22,7 +22,7 @@ Once, At Securitization
 ## Fields Included
 | Field Name                                     | Field Number | Type    | Format Example | 
 |------------------------------------------------|--------------|---------|----------------|
-| [Transaction ID](https://github.com/caseypanzer/CREFCInvestorReportingPackage/blob/master/DATA_DICTIONARY.md#Transaction_ID)                                                           | 1  | AN      | XXX97001       | 1.0 | 
+| [Transaction ID](https://github.com/caseypanzer/CREFCInvestorReportingPackage/blob/master/DATA_DICTIONARY.md#transaction-id-)                                                           | 1  | AN      | XXX97001       | 1.0 | 
 | [Group ID](https://github.com/caseypanzer/CREFCInvestorReportingPackage/blob/master/DATA_DICTIONARY.md#Group_ID)                                                                       | 2  | AN      | XXX9701A       | 1.0 | 
 | [Loan ID](https://github.com/caseypanzer/CREFCInvestorReportingPackage/blob/master/DATA_DICTIONARY.md#Loan_ID)                                                                         | 3  | AN      | 00000000012345 | 1.0 | 
 | [Prospectus Loan ID](https://github.com/caseypanzer/CREFCInvestorReportingPackage/blob/master/DATA_DICTIONARY.md#Prospectus_Loan_ID)                                                   | 4  | AN      | 123            | 1.0 | 
