@@ -1,4 +1,5 @@
 # Loan Set Up File
+The Loan Setup File will contain the majority of the loanlevel information found in the prospectus. Such information includes cut-off balance, original note rate, maturity date and general prepayment information, as well as “at contribution” financial data.
 
 ## Required File Type
 .xls
@@ -30,4 +31,4 @@ underwriting column of the OSAR.
 
 However, at times this does not happen, and the Master Servicer should create this file using loan files and whatever other information is available. 
 
-The file may be made available to investors by the Certificate Administrator on its web site. The Loan Setup File will contain the majority of the loanlevel information found in the prospectus. Such information includes cut-off balance, original note rate, maturity date and general prepayment information, as well as “at contribution” financial data.
+The file may be made available to investors by the Certificate Administrator on its web site. 
