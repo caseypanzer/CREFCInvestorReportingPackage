@@ -4,6 +4,9 @@ The Loan Setup File will contain the majority of the loanlevel information found
 ## Required File Type
 .xls
 
+## File Naming Convention
+*Transaction ID*_*YYYYMM*_setup.xls
+
 ## Disseminated By
 Certificate Administrator
 
