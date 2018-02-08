@@ -1,0 +1,77 @@
+Loan Modification/Forbearance Best Practices
+
+MODIFICATION BEST PRACTICES
+
+With the recent recession in the United Sates and downturn in the global economy, the CMBS market has experienced a tremendous increase in the volume of specially serviced assets. Special Servicers are required to workout defaulted loans with a goal of maximizing recoveries and minimizing losses for the CMBS bondholders. In certain instances, a modification of the loan may prove to be the best alternative to a foreclosure or liquidation, creating the highest net present value. In the recent past, Special Servicers have increased the use of modifications as a workout tool and some of those structures are somewhat complex in nature. Using the reporting standards provided for in the existing CREFC Investor Reporting Package, Servicers were challenged to report thorough descriptions of modified loan terms within an acceptable timeframe for Bondholders, who called for an increase in transparency and disclosure surrounding such modifications.  Therefore, in December 2010, the CREFC introduced the Loan Modification Report (substantially, a summary of the changes to the loan terms in a narrative format) to enable Special Servicers to deliver more detailed modification information to Bondholders more quickly; this Report was revised in December 2012. This was a significant step forward in the pursuit of increased transparency, but the market was still faced with inconsistencies in the content of the narratives and the manner in which the data was being reported. Bondholders also wanted to further reduce the lag time from the point of modification execution to the reporting and application of changes to Trust cash flows.  
+
+Along with the increased focus on modification reporting, questions have arisen concerning the information flow for loans with forbearance agreements and how to differentiate between a modification and forbearance.  So long as the Trust cash flows on these loans have not changed (due to servicer advance requirements), Bondholders generally have not raised concerns about the reporting. However, Bondholders have expressed a need for additional information when there is an expectation that the amount and/or timing of the cash flows will be altered due to the forbearance, as these changes could affect the Bondholders’ valuations. Master Servicers have also requested more information on loans in forbearance to provide clarity regarding their advance obligations and the application of funds in borrower suspense accounts.  
+
+This document contains best practices for CMBS Special Servicers, Master Servicers and Certificate Administrators to:
+More promptly provide Bondholders with modification information and application of the term changes to the Trust reporting
+Improve the consistency and depth of information reported in the Loan Modification Reports created by the Special Servicers
+Improve the consistency in Master Servicer data files relating to modified loan terms
+Clarify when loans should be reported as modified versus in forbearance
+Improve the amount of information available on loans in forbearance
+
+
+COMMUNICATION AND INFORMATION FLOW
+
+Prompt, accurate communication between the reporting providers is critical to delivering Bondholders with relevant and complete modification information as quickly as possible. Any delay or miscommunication among the parties impacts the entire process. The steps below and attached flowchart (Exhibit A) illustrates the critical steps among various parties both pre and post execution of a modification agreement.
+
+Special Servicer (SS) to Master Servicer (MS)
+The SS should make best efforts to provide advance notice to the MS of a modification, but in no event less than two days prior to closing. This notification is expected to be a simple communication (email, phone call, etc) to alert the MS to the upcoming modification and to provide a high level description of the transaction. This will enable the MS to make necessary preparations prior to the delivery of the modification documents and reporting from the SS.
+
+As opposed to waiting until the next reporting date, the SS should deliver to the MS the executed modification documents as soon as they are available. Any delays in delivering the documents will subsequently delay the MS booking the modification. The MS will promptly disseminate the notice and any additional information they received to all applicable groups within their servicing organization. 
+
+The SS should also make best efforts to promptly deliver the Loan Modification Report , if possible at the same time the documents are delivered, but in no event less than 30 days after modification closing. Exhibit B should be used as a reference for the type of information to be included in the Loan Modification Report . 
+
+By the next defined reporting date or no later than 30 days post closing of the modification, the SS should make efforts to update and deliver the Special Servicer Data File inclusive of the modification information. The Special Servicing Data File is meant to be used by the MS and should not be forwarded beyond the MS. Additionally, per the guidelines presented in the following section, the SS will determine if a loan in forbearance should be reported as a forbearance or modification and report accordingly. 
+
+Master Servicer (MS) to Certificate Administrator (CA)
+In the month the modification information is reported by the SS, the MS should provide advance notice to the CA of the modification. This should be done in a similar fashion to the advance notice from the SS to the MS and serves a similar purpose (to enable the CA to prepare for the modification). The MS should also provide the Loan Modification Report and any supplementary modification worksheets to the CA as soon as possible. The supplemental worksheets are not to be forwarded beyond the CA, but can be used by the CA to better understand the structure of the modification and any adjustments that will be reported by the MS. 
+
+The Historical Loan Modification / Forbearance and Corrected Loan Report (HLMFCLR) should include modification or forbearance comments in the month the information is received from the SS, even if the modification/forbearance has not been boarded to the MS’s system. The intent is to provide Bondholders with the information as soon as possible. Therefore, it is understood that the HLMFCLR fields may not match certain fields in the Loan Periodic Update File (LPU) during the interim reporting cycle(s), until the modification/forbearance is fully boarded by the MS. 
+
+It is expected that modifications will be fully boarded on the MS’s system within two reporting cycles of the SS executing the modification agreement. After the loan is fully boarded, the MS will report the changed terms in the LPU in accordance with the reporting scenarios table (Exhibit C). This includes updating the existing Date of Last Modification field, the new Modification Booking Date field and the new Modification Execution Date field.  
+
+Certificate Administrator to make Data and Reports Available
+Upon receiving the Loan Modification Report, the CA should post the report as a special notice on their website. The Trust reporting should generally account for the modified terms in the same month the MS reflects the changes in the LPU. Additionally, the LPU and HLMFCLR should be posted to the CA website at the same time the other distribution date statements are posted. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORBEARANCE BEST PRACTICES 
+
+In addition to an increase in the number of modified loans, there has been a significant increase in the number of instances where a SS has entered into a forbearance agreement with a borrower. While modification and forbearance agreements can be similar in many ways, the booking of payments, advancing obligations and the investor reporting standards can be different. Therefore, it is important to have a uniform understanding of what qualifies as a modification and what should be classified as a forbearance. It is equally important to ensure there is clear and prompt communication between the reporting providers to ensure payments are applied appropriately and the investor reporting package provides sufficient information.  
+
+Forbearance vs. Modification
+When is it a modification and when is it forbearance? The answer to the question is a question: At the end of the forbearance period does the loan have the same terms (all terms, monetary and non-monetary) as it did prior to the forbearance? A forbearance should be an event whereby all obligations still exist or have been satisfied.  Strictly speaking, forbearance is simply the reservation of the noteholder’s rights and is not indicative of permanent changes to the monetary terms of a loan, as in a modification. However, when the SS writes into the forbearance agreement a “Forbearance Payment”, the distinction between the two can be difficult to differentiate. If the amount and/or timing of the loan payment or other money term has been altered for a specified time period (outside of the forbearance period), permanently, the SS should report the loan as a modification. 
+
+Forbearance Reporting 
+While a loan is in forbearance and the decision has been made to report as a modification, the SS will add comments to the Special Servicer Data File to describe the parameters of the forbearance, and those comment fields will flow through to the Delinquent Loan Status Report (DLSR and HLMFLCR) prepared by the MS. The Special Servicer Data File will also be updated with a new Modification Code for Forbearance and the related Date of Last Modification. The code and date will flow through to the LPU and the Historical Loan Modification / Forbearance and Corrected Loan Report (HLMFCLR).
+
+Advancing Considerations
+Another difference between modifications and forbearance is that during forbearance, the borrower is considered still in default; therefore, the MS’s advancing role must be taken into consideration. Because the loan has not been formally modified, the MS is usually obligated to continue to advance at the original terms of the loan. 
+
+As an example, if a loan is fully amortizing, but a Forbearance Payment of interest-only has been agreed upon, the MS would still be obligated to advance the principal portion of each monthly payment. Conversely, if the loan was formally modified to reflect such interest-only period, the MS would not be obligated to advance the principal portion and if the MS had previously advanced principal, before the modification was effective and reported, it would have the right to claw back those advances from the Trust. 
+
+In the forbearance scenario, the question arises as to how and when the MS will recoup their advances. The alternatives are to (i) wait until final loan liquidation or payoff; (ii) wait until the borrower repays the principal portion of such payments (if applicable); or (iii) declare the principal advances non-recoverable. 
+
+If appropriate to the workout, a best practice is to promptly apply forbearance payments to satisfy the oldest outstanding receivable in order to reduce and/or avoid advances.
+
+Communication between Special Servicer and Master Servicer
+As with modifications, improved communication between the SS and MS regarding the terms of a forbearance agreement is needed and similar practices defined in the Communication and Information Flow section should be followed.  
