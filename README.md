@@ -1,5 +1,4 @@
-# CREFCInvestorReportingPackage
-CRE Finance Council Investor Reporting Package
+# CRE Finance Council Investor Reporting Package
 
 The core data files below have been designed to provide standard formats that facilitate a smooth transfer of information from the Special Servicer to the Master Servicer, Master Servicer to the Certificate Administrator, and from the Certificate Administrator to the Investor (or user of this data). 
 
