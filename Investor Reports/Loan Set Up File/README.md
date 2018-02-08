@@ -19,6 +19,9 @@ Originators Underwriting
 ## Frequency of Updates
 Once, At Securitization
 
+## Best Practices
+[best practices could go here]
+
 ## Fields Included
 | Field Name                                     | Field Number | Type    | Format Example | 
 |------------------------------------------------|--------------|---------|----------------|
