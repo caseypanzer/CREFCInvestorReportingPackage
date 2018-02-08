@@ -1,5 +1,5 @@
 # CRE Finance Council Investor Reporting Package
-This package is designed as a standard information package, to meet the needs of all types of CMBS investors. 
+This package is designed as a standard information package to meet the needs of all types of CMBS investors. 
 
 The package is seperated into two sections:
 * [Investor Reports](https://github.com/caseypanzer/CREFCInvestorReportingPackage/tree/master/Investor%20Reports) - Reports which are made available to Investors on the Certificate Administrators websites
